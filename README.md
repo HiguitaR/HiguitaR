@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm HiguitaR 👋
 
-Passionate developer building impactful digital solutions.
+`Passionate developer building impactful digital solutions.`
 
 ---
 
@@ -33,7 +33,14 @@ Passionate developer building impactful digital solutions.
 
 
 **Currently Learning:**
-`Java` `TypeScrip` `Angular` 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</p>
 
 ---
 
